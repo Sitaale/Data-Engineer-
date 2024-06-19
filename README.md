@@ -23,7 +23,9 @@ Como Data Engineer, serás responsable de diseñar, implementar y mantener infra
   - Experiencia mínima de 1 año como Desarrollador.
   - Experiencia mínima de 1 año como Data Engineer
 
-    Modalidad Hibrida 3 días oficina, 2 días home Office. 
+    Modalidad Hibrida 3 días oficina, 2 días home Office.
+    
+    Interesados envíar sus pretensiones de renta y CVs a alejandra.mendez@itaxioma.com 
 
 
 
